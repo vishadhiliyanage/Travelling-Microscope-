@@ -25,9 +25,6 @@ This project creates a 1 ft³ traveling microscope with a sliding mechanism, ver
 - 🎯 [`Applications`](#applications)  
 
 
-## 📚 References  
-- 📖 [`Citations & Sources`](#references)  
-
 ## 📎 Appendices  
 - 📂 [`Additional Information`](#appendices)  
 

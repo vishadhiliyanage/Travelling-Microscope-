@@ -1,4 +1,4 @@
-# **MANUFACTURING AND ASSEMBLING**
+
 
 ## **Base**
 The base provides stability and support for the entire microscope. It is usually a heavy and flat structure to ensure  

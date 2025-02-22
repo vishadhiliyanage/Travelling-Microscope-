@@ -13,3 +13,7 @@
 • While using the welding machine the materials to be welded should be cleaned and prepared before starting the welding process. Remove any dirt, rust, or contaminants from the surfaces using wire brushes or grinding tools. Otherwise, it would be caused by poor weld quality. And attention should be paid to properly aligning and clamping the workpieces to ensure they are held securely in position during the welding process.
 
 • While cutting or drilling the metal bars, boxes, or plates, they should be securely held in place stably using clamps or a vise. It was ensured that the workpiece was stable and wouldn't shift during cutting, minimizing the risk of inaccuracies or accidents.
+
+
+![Vertical pillar inside mechanism](vertical%20pillar%20inside%20mechanism.png)
+

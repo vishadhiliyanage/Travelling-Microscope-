@@ -18,17 +18,12 @@ This project creates a 1 ft³ traveling microscope with a sliding mechanism, ver
 ## 📊 Results and Discussion  
 - 📈 [`Findings`](#results-and-discussion)  
 
-## 💰 Cost  
-- 💵 [`Budget and Expenses`](#cost)  
-
 ## 🏆 Conclusion  
 - ✅ [`Achievements`](#achievements)  
 - 📏 [`Accuracy and Uncertainty`](#accuracy-and-uncertainty)  
 - ⚡ [`Advantages`](#advantages)  
 - 🎯 [`Applications`](#applications)  
 
-## 🚀 Further Developments  
-- 🔧 [`Future Enhancements`](#further-developments)  
 
 ## 📚 References  
 - 📖 [`Citations & Sources`](#references)  

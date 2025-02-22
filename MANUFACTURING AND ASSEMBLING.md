@@ -1,5 +1,15 @@
 
 
+
+
+[parts of the traveling microscope] parts of the traveling microscope.jpg
+
+
+
+
+
+
+
 ## **Base**
 The base provides stability and support for the entire microscope. It is usually a heavy and flat structure to ensure  
 the instrument remains steady during measurements.

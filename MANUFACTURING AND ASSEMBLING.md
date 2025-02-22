@@ -1,7 +1,9 @@
 
 
-
-([parts of the traveling microscope.jpg)]()
+<div style="text-align:center;">
+  <img src="parts%20of%20the%20traveling%20microscope.jpg" alt="Parts of the Traveling Microscope">
+  <p><b>Parts of the Traveling Microscope</b></p>
+</div>
 
 
 

@@ -2,7 +2,7 @@
 
 
 
-[parts of the traveling microscope] parts of the traveling microscope.jpg
+[parts of the traveling microscope] (parts of the traveling microscope.jpg)
 
 
 
